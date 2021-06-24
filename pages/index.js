@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Atomic Structure and Properties &rarr;</h3>
+            <h3>Atomic Structure and Properties</h3>
             <p>Periodic Trends, Valence Electrons, Mass Spectroscopy</p>
           </a>
 
