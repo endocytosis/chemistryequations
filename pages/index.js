@@ -10,40 +10,35 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="#">Chemistry Equations</a>
         </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>Atomic Structure and Properties &rarr;</h3>
+            <p>Periodic Trends, Valence Electrons, Mass Spectroscopy</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h3>Chemical Reactions</h3>
+            <p>Net Ionic Equations</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>Kinetics</h3>
+            <p>Rate Laws, Enzyme Kinetics</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Acids and Bases</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              pH and pKa
             </p>
           </a>
         </div>
@@ -51,11 +46,16 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://stackblitz.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by StackBlitz{' '}
+          <img
+            src="https://c.staticblitz.com/assets/favicon-7453cf0c12d349fb64b7aa2b69cc69c026f083a27f139f0839b1f4948bed6811.png"
+            width="20"
+            height="20"
+          />
         </a>
       </footer>
     </div>
