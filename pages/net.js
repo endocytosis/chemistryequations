@@ -1,6 +1,6 @@
 import styles from '../styles/pages.module.css';
 
-function Net() {
+export default function Net() {
   return (
     <div classname={styles.container}>
       <title>Net Ionic Equations</title>
