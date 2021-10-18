@@ -16,6 +16,10 @@
   align-items: normal;
 }
 
+.main a:hover {
+  text-decoration: underline;
+}
+
 .footer {
   width: 100%;
   height: 100px;
