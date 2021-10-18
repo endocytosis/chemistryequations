@@ -18,5 +18,3 @@ export default function Net() {
     </div>
   );
 }
-
-export default Net;
