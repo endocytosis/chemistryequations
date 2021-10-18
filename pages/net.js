@@ -5,7 +5,11 @@ function Net() {
     <div classname={styles.container}>
       <title>Net Ionic Equations</title>
       <main className={styles.main}>
-        <p>Net Ionic Equations are a topic of frequent study.</p>
+        <p>
+          Net ionic equations are complete ionic equations absent the spectator
+          ions. Let's look at the following reaction between sodium chloride and
+          silver nitrate:
+        </p>
         <a href="#">Test</a>
       </main>
     </div>
