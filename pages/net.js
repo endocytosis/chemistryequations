@@ -1,17 +1,17 @@
 import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import Head from 'next/head';
+import styles from '../styles/globals.css';
+import styles from '../home.module.css';
+
 
 export default function Net() {
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Net Ionic Equations</title>
-      </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>Net Ionic Equations</h1>
       </main>
-
+      <title>Net Ionic Equations</title>
       <body>
         <p>Net ionic equations are a topic of frequent study.</p>
       </body>
