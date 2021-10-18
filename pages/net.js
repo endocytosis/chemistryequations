@@ -8,9 +8,8 @@ export default function Net() {
         <p>
           Net ionic equations are complete ionic equations absent the spectator
           ions. Let's look at the following reaction between sodium chloride and
-          silver nitrate: ..
-          <h2>Basic MathJax example with Latex</h2>
-          <MathJax>{'\\(\\frac{10}{4x} \\approx 2^{12}\\)'}</MathJax>
+          silver nitrate:
+          
         </p>
       </main>
     </div>
