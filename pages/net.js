@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import styles from '../styles/globals.css';
-import styles from '../home.module.css';
 
 export default function Net() {
   return (
