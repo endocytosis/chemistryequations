@@ -9,10 +9,12 @@ export default function Net() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="#">Chemistry Equations</a>
-        </h1>
+        <h1 className={styles.title}>Net Ionic Equations</h1>
       </main>
+
+      <body>
+        <p>Net ionic equations are a topic of frequent study.</p>
+      </body>
 
       <footer className={styles.footer}>
         <a
