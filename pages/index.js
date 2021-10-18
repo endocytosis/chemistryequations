@@ -14,29 +14,20 @@ export default function Home() {
         </h1>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Atomic Structure and Properties</h3>
-            <p>Periodic Trends, Valence Electrons, Mass Spectroscopy</p>
+          <a href="#" className={styles.card}>
+            <h3>Introduction to Stoichiometry</h3>
           </a>
 
           <a href="/net" className={styles.card}>
             <h3>Net Ionic Equations</h3>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
+          <a href="#" className={styles.card}>
             <h3>Kinetics</h3>
-            <p>Rate Laws, Enzyme Kinetics</p>
           </a>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
+          <a href="#" className={styles.card}>
             <h3>Acids and Bases</h3>
-            <p>pH and pKa</p>
           </a>
         </div>
       </main>
