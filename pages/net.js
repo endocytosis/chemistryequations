@@ -8,9 +8,9 @@ function Net() {
         <p>
           Net ionic equations are complete ionic equations absent the spectator
           ions. Let's look at the following reaction between sodium chloride and
-          silver nitrate:
+          silver nitrate: \ce{NaCl} + \ce{AgNO_3} \rightarrow \ce{NaNO_3} + \ce
+          {AgCl}
         </p>
-        <a href="#">Test</a>
       </main>
     </div>
   );
