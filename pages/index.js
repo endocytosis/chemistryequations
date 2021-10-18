@@ -19,9 +19,8 @@ export default function Home() {
             <p>Periodic Trends, Valence Electrons, Mass Spectroscopy</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Chemical Reactions</h3>
-            <p>Net Ionic Equations</p>
+          <a href="/net" className={styles.card}>
+            <h3>Net Ionic Equations</h3>
           </a>
 
           <a
@@ -37,9 +36,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Acids and Bases</h3>
-            <p>
-              pH and pKa
-            </p>
+            <p>pH and pKa</p>
           </a>
         </div>
       </main>
